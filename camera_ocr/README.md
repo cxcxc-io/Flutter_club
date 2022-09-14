@@ -9,3 +9,5 @@
 4. 新增 lib/components/camera_view.dart
 5. 進行實體手機測試
 
+## 參考影片
+https://drive.google.com/file/d/1e-1C94L3xs_H0V_TQWjrzbIHrQ6mjHAL/view?usp=sharing
