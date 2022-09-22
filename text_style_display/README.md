@@ -3,10 +3,9 @@
 
 ## 使用方法
 1. 開啟新的專案
-2. 下載兩種字體、新建project/fonts資料夾，並貼到 project/fonts/字體.ttf  
-
-https://fonts.google.com/download?family=Bungee%20Spice
-https://fonts.google.com/download?family=Fugaz%20One
+2. 下載兩種字體、新建project/fonts資料夾，並貼到 project/fonts/字體.ttf
+* https://fonts.google.com/download?family=Bungee%20Spice
+* https://fonts.google.com/download?family=Fugaz%20One
 3. 將 pubspec.yaml 內容複製，替換成你專案的 pubspec.yaml
 4. 將 lib/main.dart 內容複製，替換成你專案的 lib/main.dart
 5. 開啟 emulator
