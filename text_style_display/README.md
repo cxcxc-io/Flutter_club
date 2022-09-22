@@ -10,3 +10,4 @@
 4. 將 lib/main.dart 內容複製，替換成你專案的 lib/main.dart
 5. 開啟 emulator
 6. F5 進行測試
+* 參考影片連結：https://drive.google.com/file/d/1ID2Fj0ueV0onCkc4I1hzBNrnrPuD7Zuy/view?usp=sharing
