@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_storage/firebase_storage.dart';
-import 'package:firebase_storage_example_test/screens/home_screen.dart';
+import 'screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'firebase_options.dart';
