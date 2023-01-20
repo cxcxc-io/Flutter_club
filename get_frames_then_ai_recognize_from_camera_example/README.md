@@ -12,12 +12,12 @@
 在 ios/Runner/Info.plist
 添加
 ```
-    !-- ↓ 相機 ↓-->
-	<key>NSCameraUsageDescription</key>
-	<string>your usage description here</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>your usage description here</string>
-	<!-- ↑ 相機 ↑-->
+<!-- ↓ 相機 ↓-->
+<key>NSCameraUsageDescription</key>
+<string>your usage description here</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>your usage description here</string>
+<!-- ↑ 相機 ↑-->
 ```
 
 【Android】
